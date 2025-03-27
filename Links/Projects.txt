@@ -1,0 +1,17 @@
+WeatherApp
+Language Used : HTML , CSS , Javascript
+Used OpenWeatherMap API, it provide information like feels like temperature, humidity, pressure, wind
+speed , Dynamic background images and weather icon change according to weather status , it will give you
+alert if city name not matched with api data and it is a user-friendly interface.
+
+Restaurant Website
+Language Used : HTML , CSS
+A simple , awesome and a user-friendly interface - a restaurant website which shows different varieties of Food
+/ Dish , allows a customer to order anything what a customer wants to eat , Homepage contains Phone number
+through which customer can contact or order.
+
+Sudoku Visualizer
+Language Used : HTML , CSS , Javascript
+The goal is to fill a 9x9 grid with digits so that each column, row, and each of the grid's nine 3x3 subgrids
+contain all of the digits from 1 to 9. In this project, people will learn how to select numbers and place them on
+the tile, and check for errors.

@@ -1,0 +1,7 @@
+TECHNICAL SKILLS
+Language / Courses : C | C++ | Java | Javascript | HTML | CSS | Data Structure & Algorithms | OS | DBMS
+Frameworks : Bootstrap | NodeJs | Express | React
+Cloud Platforms : MongoDB | Git-Github
+
+SOFT SKILLS
+Leadership | Public Speaking | Team Work | Interpersonal skills
