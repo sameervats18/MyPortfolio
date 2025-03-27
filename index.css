@@ -501,3 +501,233 @@ body {
         transform: translateY(-20px);
     }
 }
+
+
+
+
+
+
+
+/* Logo  */
+
+.logo1 {
+    position: absolute;
+    top: 54.5%;
+    left: 5%;
+    height: 93;
+    width: 93;
+}
+
+.logo2 {
+    position: absolute;
+    top: 56%;
+    left: 15%;
+    height: 68;
+    width: 68;
+}
+
+.logo3 {
+    position: absolute;
+    top: 70%;
+    left: 5.7%;
+    height: 68;
+    width: 68;
+}
+
+.logo4 {
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    height: 68;
+    width: 68;
+}
+
+.logo5 {
+    position: absolute;
+    top: 81%;
+    left: 4.5%;
+    height: 105;
+    width: 105;
+}
+
+.logo6 {
+    position: absolute;
+    top: 83%;
+    left: 15%;
+    height: 68;
+    width: 68;
+}
+
+
+
+
+
+
+
+/* Buttons  */
+
+
+.education {
+    position: absolute;
+    top: 55%;
+    left: 27%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.skills {
+    position: absolute;
+    top: 55%;
+    left: 39%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.projects {
+    position: absolute;
+    top: 55%;
+    left: 51%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.achievements {
+    position: absolute;
+    top: 55%;
+    left: 63%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.certificate {
+    position: absolute;
+    top: 75%;
+    left: 27%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.training {
+    position: absolute;
+    top: 75%;
+    left: 39%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.languages {
+    position: absolute;
+    top: 75%;
+    left: 51%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.extra-curricular {
+    position: absolute;
+    top: 75%;
+    left: 63%;
+    height: 80;
+    width: 180;
+    background-color: #00ff59;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.my_resume {
+    position: absolute;
+    top: 10%;
+    left: 3.65%;
+    height: 38;
+    width: 135;
+    background-color: #99e5f8;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.personal_life {
+    position: absolute;
+    top: 75%;
+    left: 75%;
+    height: 80;
+    width: 180;
+    background-color: #e2ed47;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.personal_details {
+    position: absolute;
+    top: 55%;
+    left: 75%;
+    height: 80;
+    width: 180;
+    background-color: #e2ed47;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+
+
+
+/* location  */
+
+.location img {
+    position: absolute;
+    top: 10%;
+    right: 4%;
+    /* transform: translateX(-50%); */
+    height: 80;
+    width: 80;
+}
+
+.location h3 {
+    position: absolute;
+    top: 20%;
+    right: 0%;
+    /* transform: translateX(-50%); */
+    height: 80;
+    width: 180;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+/* Abhi 2-3 cheez baaki hai main page mein :- updates as of date & Paragraph & Location */
